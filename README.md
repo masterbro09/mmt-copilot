@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MMT Copilot
 
 ## Setup Instructions
